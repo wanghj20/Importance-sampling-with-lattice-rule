@@ -1,1 +1,1 @@
-# Importance-sampling-with-lattice-rule
+# Importance sampling with lattice rule
